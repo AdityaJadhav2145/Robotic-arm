@@ -16,6 +16,10 @@
 
  Precision Motion - Servo-driven joints with PWM control
 
+## 👥 Core Team
+
+- **Aditya Jadhav** – *Electronics Design & Integration, System Assembly, Hardware Validation*  
+  Responsible for circuit design, component selection (Arduino UNO, PCA9685, MG995 servos), soldering/wiring, and physical assembly of the entire robotic structure. Ensured seamless integration between the electronics stack and mechanical links.
 
 Metric	Result
 Payload Capacity	~48 g at full horizontal reach
